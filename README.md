@@ -40,4 +40,4 @@ npm run dev     # http://localhost:5173
 
 ## API base URL
 
-Frontend uses `http://localhost:5000/api`. Override with `VITE_API_URL` if needed (and use it in `src/lib/api.ts`).
+Frontend uses `http://localhost:5000/api`.
