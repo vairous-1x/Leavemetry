@@ -1,6 +1,6 @@
 # Leavemetry – HR Leave Management
 
-Web application for leave management as described in the PFE document: authentication, HR manager dashboard, employee dashboard, leave requests, analytics, calendar, and holidays.
+Web application for leave management: authentication, HR manager dashboard, employee dashboard, leave requests, analytics, calendar, and holidays.
 
 ## Tech stack
 
